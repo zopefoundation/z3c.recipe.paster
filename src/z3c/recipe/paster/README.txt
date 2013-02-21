@@ -3,7 +3,7 @@ z3c.recipe.paster:serve
 =======================
 
 This Zope 3 recipes offers a Paste Deploy setup for Zope3 projects. It requires
-to define a Paste Deploy *.ini file in the buoldout.cfg. If you need a simple
+to define a Paste Deploy ``*.ini`` file in the buildout.cfg. If you need a simple
 PasteScript setup you can use the z3c.recipe.paster:paster recipe which allows
 to run already existing ``*.ini`` files.
 
